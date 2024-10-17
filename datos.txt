@@ -1,0 +1,10 @@
+
+
+
+1. Altura
+2. peso
+3. edad
+4. actividadFisica
+5. PorcentajeMacronutrientes
+6. Genero 
+7. IMC
